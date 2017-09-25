@@ -1,6 +1,1 @@
-go
-# SpiderBaike
-# SpiderBaike
-# SpiderBaike
-# SpiderBaike
-# SpiderBaike
+This is a webspider program to download data from baidu baike.
